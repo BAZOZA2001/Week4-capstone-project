@@ -1,0 +1,2 @@
+
+This project is called Railway Reservation System , it simulates a train booking system. It allows users to view available trains, book tickets, cancel tickets, and search for trains by destination. The system manages train details such as train number, destination, available seats, and ticket prices, updating seat availability based on user actions. The program provides an interactive menu for users to select various options and perform tasks like booking or canceling tickets, and searching for trains based on their desired destination.
